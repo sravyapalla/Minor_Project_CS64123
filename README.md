@@ -65,17 +65,21 @@ pip install tensorflow keras numpy pandas scikit-learn matplotlib seaborn
 - Training Accuracy & Loss curves
 - Confusion Matrix
 
+## Results
+<img src="https://github.com/user-attachments/assets/37c3259e-d046-4ef8-bd95-851cbe576799" alt="Alt text" width="400">
+<img src="https://github.com/user-attachments/assets/518cd5de-470e-4d2f-9048-76337929bc8f" alt="Alt text" width="500">
+
 ## Contributors
 
 <p align="left">
   <a href="https://github.com/sruthi070">
-    <img src="https://avatars.githubusercontent.com/u/154976021?v=4" width="24px" height="24px" style="border-radius: 50%;" />
+    <img src="https://avatars.githubusercontent.com/u/154976021?v=4" width="50px" height="45px" style="border-radius: 50%;" />
   </a>
   <a href="https://github.com/sravyapalla">
-    <img src="https://avatars.githubusercontent.com/u/143865378?v=4" width="24px" height="24px" style="border-radius: 50%;" />
+    <img src="https://avatars.githubusercontent.com/u/143865378?v=4" width="50px" height="45px" style="border-radius: 50%;" />
   </a>
-  <a href="https://github.com/contributor3">
-    <img src="https://avatars.githubusercontent.com/u/USER_ID3?v=4" width="24px" height="24px" style="border-radius: 50%;" />
+  <a href="https://github.com/Siddu230">
+    <img src="https://avatars.githubusercontent.com/u/155234070?v=4" width="50px" height="45px" style="border-radius: 50%;" />
   </a>
 </p>
 
