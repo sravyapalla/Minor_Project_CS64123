@@ -5,7 +5,7 @@ A Distributed Denial of Service (DDoS) attack is a malicious attempt to disrupt 
 
 
 ## 📊About the Dataset
-The **DDoS Detection and Mitigation Dataset** is designed to help in the development of machine learning models for detecting and mitigating DDoS attacks. It contains both **benign network traffic** and **various types of DDoS attack traffic**, collected using **Mininet** and an **SDN Controller**.
+The **DDoS Detection and Mitigation Dataset** is designed to help in the development of machine learning models for detecting and mitigating DDOS attacks. It contains both **benign network traffic** and **various types of DDoS attack traffic**, collected using **Mininet** and an **SDN Controller**.
 
 ### Features of the dataset:
 - Simulated attack and normal traffic data
