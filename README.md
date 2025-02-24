@@ -28,7 +28,7 @@ The dataset was collected using a **Software-Defined Networking (SDN)** environm
 5. Shuffle the dataset for better generalization.
 6. Split the dataset into training (80%) and testing (20%) sets.
 
-## Getting Started
+## Getting started
 To set up the environment and install dependencies, use the following:
 
 ### Requirements
