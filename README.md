@@ -1,4 +1,4 @@
-# DDoS Attack Classification Using Deep Learning
+# Classification of DDoS Detection and Mitigation dataset Using Deep Learning
 
 ## 📄Overview of DDoS Attacks
 A Distributed Denial of Service (DDoS) attack is a malicious attempt to disrupt normal traffic by overwhelming a target system, such as a server or network, with a flood of traffic. These attacks exploit vulnerabilities in network protocols, application services, or infrastructure, leading to service disruption and financial losses.
