@@ -66,8 +66,6 @@ pip install tensorflow keras numpy pandas scikit-learn matplotlib seaborn
 - Confusion Matrix
 
 ## Results
-<img src="https://github.com/user-attachments/assets/bf4888a5-8fc4-4633-ab79-a69b54f20262" alt="Alt text" width="400">
-<img src="https://github.com/user-attachments/assets/733f3a55-b007-49fd-9abe-5f35c2742f3a" alt="Alt text" width="500">
 
 ![WhatsApp Image 2025-03-22 at 15 55 33_33278812](https://github.com/user-attachments/assets/d536bb55-d667-4f34-8e46-520b6693ef6c)
 
