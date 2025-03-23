@@ -24,9 +24,10 @@ The dataset was collected using a **Software-Defined Networking (SDN)** environm
 1. Load the dataset from a CSV file.
 2. Drop non-numeric and unnecessary columns.
 3. Handle missing and infinite values by replacing them with NaN and dropping them.
-4. Normalize numerical features using MinMaxScaler.
-5. Shuffle the dataset for better generalization.
-6. Split the dataset into training (80%) and testing (20%) sets.
+4. Encoded non numeric columns and picked important features based on their correlation.
+5. Normalize numerical features using MinMaxScaler.
+6. Shuffle the dataset for better generalization.
+7. Split the dataset into training (80%) and testing (20%) sets.
 
 ## Getting started
 To set up the environment and install dependencies, use the following:
@@ -55,6 +56,10 @@ pip install tensorflow keras numpy pandas scikit-learn matplotlib seaborn
 - Loss function: Binary Cross-Entropy
 - Metrics: Accuracy, Precision, Recall
 - Training for 5 epochs with a batch size of 128
+- ANN was tested on the original test set, adversarial test set, and combined dataset
+## FGSM Adversarial Samples Generation
+- Base model was trained to generate adversarial Samples using FGSM with ε=0.1. The adversarial dataset was saved as adversarial_dataset.csv
+- Original and adversarial datasets were combined into combined_dataset.csv
 ## Evaluation Metrics
 - Accuracy
 - Precision
@@ -62,8 +67,9 @@ pip install tensorflow keras numpy pandas scikit-learn matplotlib seaborn
 - F1-Score
 - Confusion Matrix Visualization
 ## Visualizations
-- Training Accuracy & Loss curves
-- Confusion Matrix
+- Confusion Matrices (Original Test Set, Adversarial Dataset, Combined Dataset)
+- ROC curves for the original, adversarial, and combined datasets
+- Bar charts comparing performance metrics across datasets
 
 ## Results
 
